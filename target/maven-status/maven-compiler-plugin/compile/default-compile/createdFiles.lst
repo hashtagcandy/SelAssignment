@@ -1,0 +1,12 @@
+step\CreateOpp.class
+testcases\delOpp.class
+testcases\TestNgOppurtunity.class
+step\delEdit.class
+step\EditOpp.class
+testng\TestNgOpportunity.class
+testng\CreateOppurtunityNegativeSc.class
+testcases\editOpp.class
+testcases\newOpportunity.class
+testng\del.class
+testcases\OpportunityNegative.class
+runner\ExecutionClass.class
